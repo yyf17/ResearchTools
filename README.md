@@ -16,3 +16,6 @@
 
 ## 二维码生成工具
 - [代码二维码生成](https://tool.oschina.net/qr/)
+
+## ocr
+- [图片转文字](https://www.onlineocr.net/zh_hans/)
