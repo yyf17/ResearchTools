@@ -19,3 +19,8 @@
 
 ## ocr
 - [图片转文字](https://www.onlineocr.net/zh_hans/)
+## Video edit
+- [Autocut](https://github.com/mli/autocut)
+
+## 机器学习打标签工具
+- [labelme](https://github.com/wkentaro/labelme)
