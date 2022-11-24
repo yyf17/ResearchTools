@@ -46,14 +46,14 @@
   - 2018:https://openaccess.thecvf.com/CVPR2018
 
 
--IJCAI
+- IJCAI
   - 2022:https://www.ijcai.org/Proceedings/2022/
   - 2021:https://www.ijcai.org/Proceedings/2021/
   - 2020:https://www.ijcai.org/Proceedings/2020/
   - 2019:https://www.ijcai.org/Proceedings/2019/
   - 2018:https://www.ijcai.org/Proceedings/2018/
   
--lCLR
+- ICLR
   - 2022:https://openreview.net/group?id=ICLR.cc/2022/Conference
   - 2021:https://openreview.net/group?id=ICLR.cc/2021/Conference
   - 2020:https://openreview.net/group?id=ICLR.cc/2020/Conference
