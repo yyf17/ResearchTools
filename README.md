@@ -1,5 +1,22 @@
 # ResearchTools
 
+## latex 让表格宽度与文本宽度相同
+1. 原表格过宽（宽于页面）：用resizebox；
+```
+	\resizebox{1\linewidth}{!}{
+  }
+```
+
+2. 原表格过窄（窄于页面）：不建议以上做法，原因是自动调整的结果会使得表格里的字体过大，非常不美观。对于此种情形，用tabular*，参考以下做法：
+使用 tabular*， \hzise 或 \textwidth， 然后加上一些奇怪的符号。
+```
+		\begin{tabular}{lccc} 
+```
+修改为
+```
+		\begin{tabular*}{\hsize}{@{}@{\extracolsep{\fill}}lccc@{}} 
+```
+
 ## PDF
 - [在线PDF文件大小压缩](https://cdkm.com/cn/compress-pdf)
 
