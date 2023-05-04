@@ -45,7 +45,15 @@
 ## 大小写转换
 - [大小写转换](https://titlecaseconverter.com/)
 
+## Youtube下载
+- [savefrom.net](https://zh.savefrom.net/226/)
+- [savieo](https://savieo.com/)
+- [yout](https://yout.com/)
+- [youtubemy](https://www.youtubemy.com/)
+- []()
+
 ## 顶会会议
+- [AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV,RO,SP)
 - [NeurIPS](https://proceedings.neurips.cc/)
 
 - ICML
