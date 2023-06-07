@@ -94,3 +94,5 @@
 
 
 [AirSim学习资料](https://github.com/Microsoft/AirSim/blob/main/docs/reinforcement_learning.md)
+[1](https://github.com/microsoft/PromptCraft-Robotics)
+[2](https://www.youtube.com/watch?v=iE5tZ6_ZYE8)
