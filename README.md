@@ -90,3 +90,7 @@
   - 2020:https://openreview.net/group?id=ICLR.cc/2020/Conference
   - 2019:https://openreview.net/group?id=ICLR.cc/2019/Conference
   - 2018:https://openreview.net/group?id=ICLR.cc/2018/Conference
+
+
+
+[AirSim学习资料](https://github.com/Microsoft/AirSim/blob/main/docs/reinforcement_learning.md)
