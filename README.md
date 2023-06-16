@@ -1,5 +1,8 @@
 # ResearchTools
 
+## 搭建和使用overleaf服务器
+[搭建和使用overleaf服务器](https://www.tnnidm.com/build-and-use-overleaf-server/index.html)
+
 ## latex 让表格宽度与文本宽度相同
 1. 原表格过宽（宽于页面）：用resizebox；
 ```
