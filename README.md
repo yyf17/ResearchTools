@@ -31,6 +31,11 @@
 - [在线表格调试](https://www.latex-tables.com/)
 - [在线表格调试2](https://www.tablesgenerator.com/)
 
+## 图片表格转word表格
+1】电子表格识别得到excel
+- [电子表格识别][https://www.latex-tables.com/](https://web.baimiaoapp.com/image-to-excel)
+2】Excel转Word常用方法分享
+  Excel转Word常用方法分享 方法一：打开Excel表格，选择需要转到Word文档中的部分，然后“Ctrl+C”复制；
 ## 个性化签名
 - [个性化签名](https://www.signwell.com/online-signature/)
 
