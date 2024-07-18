@@ -66,6 +66,12 @@
 ## 顶会会议
 - [AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV,RO,SP)
 - [NeurIPS](https://proceedings.neurips.cc/)
+   - 2023: https://proceedings.neurips.cc/paper_files/paper/2023
+   - 2022: https://proceedings.neurips.cc/paper_files/paper/2022
+   - 2021: https://proceedings.neurips.cc/paper_files/paper/2021
+   - 2020: https://proceedings.neurips.cc/paper_files/paper/2020
+   - 2019: https://proceedings.neurips.cc/paper_files/paper/2019
+   - 2018: https://proceedings.neurips.cc/paper_files/paper/2018
 
 - ICML
   - ICML2024:https://openreview.net/group?id=ICML.cc/2024/Conference#tab-accept-oral
