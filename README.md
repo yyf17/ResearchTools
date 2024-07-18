@@ -82,6 +82,8 @@
 - [AAAI](https://aaai.org/Library/conferences-library.php)
 
 - CVPR
+  - 2024:https://openaccess.thecvf.com/CVPR2024?day=all
+  - 2023:https://openaccess.thecvf.com/CVPR2023?day=all
   - 2022:https://openaccess.thecvf.com/CVPR2022
   - 2021:https://openaccess.thecvf.com/CVPR2021
   - 2020:https://openaccess.thecvf.com/CVPR2020
@@ -90,6 +92,8 @@
 
 
 - IJCAI
+  - 2024:
+  - 2023:https://www.ijcai.org/proceedings/2023/
   - 2022:https://www.ijcai.org/Proceedings/2022/
   - 2021:https://www.ijcai.org/Proceedings/2021/
   - 2020:https://www.ijcai.org/Proceedings/2020/
@@ -97,6 +101,8 @@
   - 2018:https://www.ijcai.org/Proceedings/2018/
   
 - ICLR
+  - 2024:https://openreview.net/group?id=ICLR.cc/2024/Conference
+  - 2023:https://openreview.net/group?id=ICLR.cc/2023/Conference
   - 2022:https://openreview.net/group?id=ICLR.cc/2022/Conference
   - 2021:https://openreview.net/group?id=ICLR.cc/2021/Conference
   - 2020:https://openreview.net/group?id=ICLR.cc/2020/Conference
