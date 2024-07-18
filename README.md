@@ -86,6 +86,14 @@
 
 
 - [AAAI](https://aaai.org/Library/conferences-library.php)
+   - 2024:https://ojs.aaai.org/index.php/AAAI/issue/view/576
+   - 2023:https://ojs.aaai.org/index.php/AAAI/issue/archive
+   - 2022:https://aaai.org/proceeding/aaai-36-2022/
+   - 2021:https://aaai.org/proceeding/aaai-35-2021/
+   - 2020:https://aaai.org/proceeding/aaai-34-2020/
+   - 2019:https://aaai.org/proceeding/aaai-33-2019/
+   - 2018:https://aaai.org/proceeding/aaai-32-2018/
+  
 
 - CVPR
   - 2024:https://openaccess.thecvf.com/CVPR2024?day=all
